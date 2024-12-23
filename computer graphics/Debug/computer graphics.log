@@ -1,0 +1,10 @@
+﻿  section1.cpp
+E:\C++\Data structure cpp\computer graphics\section1.cpp(103,14): warning C4305: '+=': truncation from 'double' to 'float'
+E:\C++\Data structure cpp\computer graphics\section1.cpp(463,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\C++\Data structure cpp\computer graphics\section1.cpp(463,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\C++\Data structure cpp\computer graphics\section1.cpp(463,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\C++\Data structure cpp\computer graphics\section1.cpp(475,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\C++\Data structure cpp\computer graphics\section1.cpp(475,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\C++\Data structure cpp\computer graphics\section1.cpp(475,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\C++\Data structure cpp\computer graphics\section1.cpp(528,14): warning C4305: '+=': truncation from 'double' to 'float'
+  computer graphics.vcxproj -> E:\C++\Data structure cpp\computer graphics\Debug\computer graphics.exe

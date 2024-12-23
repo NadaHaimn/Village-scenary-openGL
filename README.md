@@ -1,1 +1,1 @@
-# Village-scenary-openGL
+# Village scenary with openGL
